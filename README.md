@@ -1,0 +1,5 @@
+- Milk
+- Eggs
+- Spinach
+- Oatmeal
+- Toothpaste
